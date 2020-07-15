@@ -1,0 +1,8 @@
+.statusActive, .statusActive:hover {
+  border: 3px solid green;
+}
+
+.statusInactive, .statusInactive:hover {
+  border: 3px solid orangered;
+  margin-left: 10px;
+}
